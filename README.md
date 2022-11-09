@@ -1,4 +1,4 @@
-### Hi there 👋
+### I am Naren Yalla. I am currently pursuing 3rd year b tech in mechanical engineering branch in NIT Rourkela.
 
 <!--
 **narenyalla/narenyalla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
